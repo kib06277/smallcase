@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/onepage"
+        android:icon="@mipmap/home"
+        android:title="@string/onepage"/>
+
+    <item
+        android:id="@+id/twopage"
+        android:icon="@mipmap/search"
+        android:title="@string/twopage"/>
+
+    <item
+        android:id="@+id/threepage"
+        android:icon="@mipmap/livestreaming"
+        android:title="@string/threepage"/>
+
+</menu>
